@@ -1,7 +1,7 @@
-###Pip: 
+### Pip: 
  !pip install pyspark
 
-###Conda: 
+### Conda: 
 conda create -n pyspark_env <br/>
 conda activate pyspark_env <br/>
 conda install -c conda-forge pyspark <br/>
